@@ -14,3 +14,9 @@ Price of houses are predicted using Gradient Descent and Linear Regression in Sc
 # Output
 Shows the mean squared error between predicted and actual values of houses using both the methods
 
+Mean squared error using Gradient Descent
+round(((prediction - y) ** 2).mean(),4) =======> 0.3878
+
+Mean squared error using Linear Regression Scikit-Learn
+mean_squared_error(y,pred)  =========>0.3614
+

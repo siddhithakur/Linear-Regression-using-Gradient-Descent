@@ -7,3 +7,10 @@ The Sci-kit learns Linear Regression is also used to predict the values and get 
 
 # Dataset
 Sklearns Boston Housing Dataset
+
+# Implementation
+Price of houses are predicted using Gradient Descent and Linear Regression in Scikit Learn library.
+
+# Output
+Shows the mean squared error between predicted and actual values of houses using both the methods
+
